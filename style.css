@@ -28,3 +28,22 @@ p {
     margin: 0 auto;
     padding: 1em 2em;
 }
+
+/* Header */
+.site-header {
+    border-bottom: 2px solid #999;
+}
+/* Footer */
+
+.site-footer {
+    margin-top: 30px;
+    border-top: 2px solid #999;
+}
+
+.post {
+    border-bottom: 2px dotted #bbbbbb;
+}
+
+.post:last-of-type {
+    border-bottom: none; 
+}
